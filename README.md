@@ -10,10 +10,13 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Atividades e exercícios realizados durante período estudantil na escola técnica.
 
 #Navegação:
+
 ##Atividade Complementar (Atividades complementares realizadas em período vago)
+
 contém: 
 > JS,
 > PHP,

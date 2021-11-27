@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ 
+ <script Language="JavaScript">
+//
+        data=new Date()
+
+        semana=data.getDay()
+        dia=data.getDate()
+        mes=data.getMonth()+1
+        ano=data.getFullYear()
+        diadasemana=new Array()
+        diadasemana[0]="Domingo"
+        diadasemana[1]="Segunda feira"
+        diadasemana[2]="Terça feira"
+        diadasemana[3]="Quarta feira"
+        diadasemana[4]="Quinta Feira"
+        diadasemana[5]="Sexta Feira"
+        diadasemana[6]="Sabado"
+
+        meses=new Array()
+        meses[1]="Janeiro"
+        meses[2]="Feveiro"
+        meses[3]="Março"
+        meses[4]="Abril"
+        meses[5]="Maio"
+        meses[6]="Junho"
+        meses[7]="Julho"
+        meses[8]="Agosto"
+        meses[9]="Setembro"
+        meses[10]="Outubro"
+        meses[11]="Novembro"
+        meses[12]="Dezembro"
+        document.write(diadasemana[semana]+", " + dia + " de " + meses[mes] + " de "+ ano)
+
+        </script>
+
+</body>
+</html>

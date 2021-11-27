@@ -2,8 +2,8 @@
 ## Atividades e exercícios realizados durante período estudantil na escola técnica.
 
 # Exercícios sobre : 
-*Banco de dados,
--PHP,
--HTML,
--JAVASCRIPT
--e JAVA.
+-Banco de dados,<br>
+-PHP,<br>
+-HTML,<br>
+-JAVASCRIPT<br>
+-e JAVA.<br>

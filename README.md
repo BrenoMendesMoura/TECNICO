@@ -1,6 +1,5 @@
 # CURSO
 
-
 ## Exercícios sobre : 
 -Banco de dados,<br>
 -PHP,<br>
@@ -14,7 +13,7 @@
 
 # Navegação:
 
-## Atividade Complementar (Atividades complementares realizadas em período vago)
+### Atividade Complementar (Atividades complementares realizadas em período vago)
 
 contém: 
 > JS,<br>
@@ -24,6 +23,10 @@ contém:
 > Protótipo de Login.<br>
 
 
-##Banco de Dados (Matéria 1° Semestre)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Banco de Dados (Matéria 1° Semestre)
+
 contém:
->DLL e DML
+
+> DLL e DML
